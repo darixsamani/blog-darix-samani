@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg 
+    role="img" 
+    xmlns="http://www.w3.org/2000/svg" 
+    width="1000mm"
+    height="1000mm"
+    viewBox="0 0 1000 1000"
+    style="max-width:1.1em; height: auto;">
+    
+    <path 
+        id="path" 
+        style="opacity:1;vector-effect:none;fill:#d6e30c;fill-opacity:1;"
+        d=" M 688 500C 688 603 603 688 500 688C 397 688 313 603 313 500C 313 397 397 313 500 313C 603 313 688 397 688 500C 688 500 688 500 688 500"
+        transform="">
+    </path>    
+</svg>
